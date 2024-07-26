@@ -1,0 +1,182 @@
+.head{ 
+    position: relative;
+    bottom: 49px;
+    background: #3BAFD9;
+    width: 100%;
+    height: 540px;
+    --mask: conic-gradient(from -70deg at bottom,#0000,#000 1deg 139deg,#0000 140deg) 50%/274.75vh 100%;
+     -webkit-mask: var(--mask);
+      mask: var(--mask); 
+      padding: 0px;
+      margin: 0px;
+      
+      }
+      h4{
+          color: white;
+          text-align: center;
+          justify-content: center;
+          font-size: 40px;
+      }
+    .DEALS{
+          color: white;
+          text-align: center;
+          justify-content: center;
+          font-size: 40px; 
+          text-decoration: underline;   
+     }
+     .deal {
+        position: relative;
+        left: 50px;
+        width: 353px;
+        height: 450px;
+        background: white;
+        color: black;
+        clip-path: polygon(0 0,75% 0,74%97%,0 68%);
+        padding: 0px;
+        margin: 0px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-top: 1px;
+    
+          }
+    .first{
+    position: relative;
+    left: -45px;
+    list-style-type: none;
+    }
+ dl{
+    font-size: 30px;
+   position: relative;
+   bottom: 25px;
+   color: gray;
+ }
+.price{
+        font-size: 30px;
+        position: relative;
+        bottom: 25px;
+        font-weight: 900;
+    }
+li{
+    font-size: 20px;
+    position: relative;
+    bottom: 25px;
+    right: 17px;
+ }
+ button{
+    background-color: #3BAFD9;
+    border: solid 1px transparent;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition-duration:0.5s ;
+ }
+ button:hover{
+    background-color: black;
+    color: #3BAFD9;
+ }
+ .deal button{
+    position: relative;
+    bottom: 12px;
+ }
+ .sec{
+    position: relative;
+    right: 60px;
+ }
+ .trd{
+    position: relative;
+    right: 87px;
+ }
+ .deal_2{
+    position: relative;
+    left: 353px;
+    width: 280px;
+    height: 438px;
+    bottom: 450px;
+    background: white;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 1px;  
+ }
+ .deal_2 button{
+    position: relative;
+    top: 10px;
+ }
+ .second{
+    position: relative;
+    list-style-type: none;
+    }
+    li{
+        list-style: none;
+    }
+
+    .sec_fir,.sec_sec,.sec_trd{
+        text-align: justify;
+    }
+    .deal_3{
+        position: absolute;
+      right: 60px;
+      top: 100px;
+        width: 280px;
+        height: 450px;
+        bottom: 470px;
+        background: white;
+        color: black;
+        padding: 0px;
+        margin: 0px;
+        clip-path: polygon(4% 0, 100% 0%, 100% 62%, 4% 100%);
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 0px;
+     }
+     .deal_3 button{
+        position: relative;
+        bottom:10px;
+     }
+     .third{
+        position: relative;
+        list-style-type: none;
+        }
+        li{
+            list-style: none;
+            color: gray;
+        }
+            .third_fir,.third_sec,.third_trd{
+                text-align: justify;
+            }
+            .term_cond {
+                position: relative;
+                left: 25%;
+                bottom: px;
+                font-size: 13px;
+            }
+            .term_cond, a , .cpy{
+                color: gray;
+                position: relative;
+                font-size: 13px;
+            }
+            .Privacy_Center{
+                position: relative;
+                left: 30%;
+            }
+         
+            .creator{
+                position: relative;
+                right: 30px;
+                text-align: center;
+                color: gray;
+            }
+            .name{
+                font-weight: 900;
+                color: black;
+            }
+
+          
